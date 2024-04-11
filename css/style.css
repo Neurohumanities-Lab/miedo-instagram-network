@@ -577,3 +577,10 @@ cursor: pointer;
 display: none;
 }
 
+.moreinformation{
+display: none;
+}
+
+.line{
+display: none;
+}
